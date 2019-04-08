@@ -1,0 +1,10 @@
+# Este archivo contiene la configuración local de la cámara para envio de dos fotos
+# IMPORTANTE: NO MODIFICAR EL CAMPO KEY
+[variables]
+KEY:AAAAwZa2jFA:APA91bGndGpqWE6tXZ_4664C8aeXCgVPg47d23owEVQNkp90KhNOHcsEecKn0M0ZrRbj_rQxPMnI71iL9rGJVxCYzfINbBcXybq0U6pXT6yL2lGB8VTZf7F3c1nr5fnsGat-qlpeAsLD
+playa:america
+sector:1
+titulo:Alerta
+descripcion:Persona fuera del limite de seguridad
+ruta1:C:\\Users\\Marcos\\Pictures\\Vigo\\Vigo.jpg
+ruta2:C:\\Users\\Marcos\\Pictures\\Vigo\\Vigo-10.jpg
